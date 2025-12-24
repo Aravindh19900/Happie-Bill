@@ -1,4 +1,3 @@
-# Happie-Bill
-Happie Bill - Public files
+# Happie Bill - Smart GST billing software for every growing business.
 
-https://happiebill.com/
+Visit: https://happiebill.com/
